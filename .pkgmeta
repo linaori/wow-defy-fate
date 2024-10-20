@@ -1,0 +1,9 @@
+package-as: DefyFate
+
+externals:
+
+ignore:
+    - .github
+    - .gitignore
+    - .previews
+    - README.md

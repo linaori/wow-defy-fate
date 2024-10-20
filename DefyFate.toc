@@ -1,0 +1,11 @@
+## Interface: 110002
+## Title: Defy Fate
+## Notes: The sands of time wait for no one, but you
+## Author: Linaori
+## Version: @project-version@
+## SavedVariables: DefyFateStorage
+## X-Repository: https://github.com/linaori/wow-defy-fate
+### X-Curse-Project-ID: 
+### X-Wago-ID: 
+
+Main.lua
