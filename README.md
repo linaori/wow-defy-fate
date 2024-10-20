@@ -1,4 +1,4 @@
-# wow-defy-fate
+# Defy Fate
 
 Wondering how many timelines had to suffer to save your timeline? Say no more!
 
