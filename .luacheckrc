@@ -24,4 +24,7 @@ globals = {
     'GetNormalizedRealmName',
     'GetRealmName',
     'IsPlayerSpell',
+    'C_PlayerInfo',
+    'UNKNOWNOBJECT',
+    'SendChatMessage',
 }
