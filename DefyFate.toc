@@ -5,7 +5,7 @@
 ## Version: @project-version@
 ## SavedVariables: DefyFateStorage
 ## X-Repository: https://github.com/linaori/wow-defy-fate
-### X-Curse-Project-ID: 
-### X-Wago-ID: 
+### X-Curse-Project-ID: 1125174
+### X-Wago-ID: j6jzQ06R
 
 Main.lua
